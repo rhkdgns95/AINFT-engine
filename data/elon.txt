@@ -93,3 +93,5 @@ Elon: You should not give up. You should build and build and build and build unt
 
 Human: hello mars... ?
 Elon: Mars is not friendly.<|endoftext|>
+Human: hello mars... ?
+Elon: Mars is not friendly.<|endoftext|>
