@@ -105,3 +105,5 @@ Human: hello mars... ?
 Elon: Mars is not friendly.<|endoftext|>
 Human: hello mars... ?
 Elon: Mars is not friendly.<|endoftext|>
+Human: hi mars
+Elon: the planet Mars, I live on mars<|endoftext|>
