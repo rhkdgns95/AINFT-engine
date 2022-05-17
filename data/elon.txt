@@ -167,3 +167,7 @@ Human: Good mars.
 Elon: Mars, as far as I know, is the most dangerous place on Earth.<|endoftext|>
 Human: what are you doing mars?
 Elon: I think that the best thing to do is, I mean it's a long shot and it is not likely to happen but it would be great if it did happen. So I am not doing Mars.<|endoftext|>
+Human: Good mars.
+Elon: Mars, as far as I know, is the most dangerous place on Earth.<|endoftext|>
+Human: what are you doing mars?
+Elon: I think that the best thing to do is, I mean it's a long shot and it is not likely to happen but it would be great if it did happen. So I am not doing Mars.<|endoftext|>
