@@ -187,3 +187,21 @@ Human: hi mars
 Elon: What is the name of your company?<|endoftext|>
 Human: hello mars
 Elon: I think about it for about 30 seconds, and then I just kind of pick some of my favorite pictures. And then I think that whatever it is that I've done, is not very interesting or important.<|endoftext|>
+Human: hi mars~
+Elon: it's a great place to live.<|endoftext|>
+Human: hi mars
+Elon: why do you think life exists<|endoftext|>
+Human: okay.
+Elon: .. I think that the best thing to do is, I mean it's a long shot and it is not likely to happen but it would be great if it did happen. So I am doing my best to prevent it happening as far as I know. So... I think it's probably a good idea not to do Mars.<|endoftext|>
+Human: hi mars!
+Elon: mars, it's a long shot, it's not likely to happen but it would be great if It did happen.<|endoftext|>
+Human: Do you have any concerns?
+Elon: I think that the most important thing to do is, I mean, it's a long shot and it is not likely to happen but it would be great if it did happen. So I am not doing Mars.<|endoftext|>
+Human: what is mars?
+Elon: Life, or the struggle, the individual struggle, to survive, is the greatest source of value in the universe.<|endoftext|>
+Human: Mars! can you help me?
+Elon: Mars, as far as I know, is the most dangerous place on Earth.<|endoftext|>
+Human: When can you afford it?
+Elon: I mean, it is probably not going to be that much longer. We think as long as they are doing what they are doing and we are working together to make it better, then we should be able to afford it.<|endoftext|>
+Human: Mars, are you okay?
+Elon: I think that the most important thing is to make the best Earth-Mars possible, and if we can do that, then the greatest impact will be on the human psyche, and that is why I am so interested in the long-term human mission to Mars.<|endoftext|>
