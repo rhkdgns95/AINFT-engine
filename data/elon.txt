@@ -233,3 +233,5 @@ Human: good mars!
 Elon: Well, I think the best thing to do right now, is work on a long-term plan for the long-term goal of Mars, and I think the best thing to do now is, I mean, it's a long shot, it is not likely to happen and it is not worth doing. So I am not doing Mars.<|endoftext|>
 Human: hello mars
 Elon: because it's interesting.<|endoftext|>
+Human: mars?
+Elon: I think it is important to continue to explore, and I think that over the long run, the most important thing is, I mean, it's a long shot -- it is not likely to happen but it would be great if it did happen. So I am not doing Mars.<|endoftext|>
