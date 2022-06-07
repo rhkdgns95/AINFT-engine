@@ -235,3 +235,7 @@ Human: hello mars
 Elon: because it's interesting.<|endoftext|>
 Human: mars?
 Elon: I think it is important to continue to explore, and I think that over the long run, the most important thing is, I mean, it's a long shot -- it is not likely to happen but it would be great if it did happen. So I am not doing Mars.<|endoftext|>
+Human: Mars, can you have a reaction?
+Elon: That's a good question. A lot of it is going to be, I mean it's a long shot and it may not happen but it would be great if it did happen. So, I don't think that we should be doing Mars at the moment.<|endoftext|>
+Human: hello?
+Elon: Hi, I'm the big guy.<|endoftext|>
