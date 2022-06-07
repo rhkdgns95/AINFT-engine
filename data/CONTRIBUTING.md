@@ -23,3 +23,18 @@ Thank you to everyone who contributed to Mars training.
 - `KwangHoonKim#8082` message _+1 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/981840305512906762) - (2022-06-02).
 - `KwangHoonKim#8082` message _+1 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/981839048127709264) - (2022-06-02).
 - `lia_ai#4478` message _+1 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/976700810253701151) - (2022-05-19).
+
+
+
+### [1.6](https://github.com/rhkdgns95/AINFT-engine/blob/e9c49f11671852867497220b190d21b6a14ca4df/data/elon.txt)
+**Train informations**
+- Training date : `Tue, 07 Jun 2022 07:52:46 GMT`.
+- Total number of messages : `2`.
+- Trainer : `KwangHoonKim`.
+
+
+
+**Message informations**
+
+- `KwangHoonKim#8082` message _+2 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/983635294358233129) - (2022-06-07 16:35).
+- `KwangHoonKim#8082` message _+2 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/983636556210393138) - (2022-06-07 16:40).
