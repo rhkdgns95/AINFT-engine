@@ -17,3 +17,17 @@
 
 **Message informations**
 - `KwangHoonKim#8082` message _+2 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/983635170848546836) - (2022-06-07 16:35).
+
+
+
+### [1.9](https://github.com/rhkdgns95/AINFT-engine/blob/a6a37fade7189a700f50d5a17c639aa3b6ca4b2e/data/elon.txt)
+**Train informations**
+- Training date : `2022-06-07 17:47:58`.
+- Total number of messages : `2`.
+- Trainer : `KwangHoonKim@8082`.
+
+
+
+**Message informations**
+- `KwangHoonKim#8082` message _+1 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/983635486901932052) - (2022-06-07 16:36).
+- `lia_ai#4478` message _+1 likes_ [view](https://discord.com/channels/947755054365036554/973791675145142342/975239270929424384) - (2022-05-15 12:32).
