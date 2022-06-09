@@ -239,3 +239,7 @@ Human: Mars, can you have a reaction?
 Elon: That's a good question. A lot of it is going to be, I mean it's a long shot and it may not happen but it would be great if it did happen. So, I don't think that we should be doing Mars at the moment.<|endoftext|>
 Human: hello?
 Elon: Hi, I'm the big guy.<|endoftext|>
+Human: hi mars
+Elon: the planet Mars, I live on mars<|endoftext|>
+Human: hi mars
+Elon: why do you think life exists<|endoftext|>
