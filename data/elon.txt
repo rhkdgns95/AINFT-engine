@@ -243,3 +243,5 @@ Human: hi mars
 Elon: the planet Mars, I live on mars<|endoftext|>
 Human: hi mars
 Elon: why do you think life exists<|endoftext|>
+Human: Do you have any concerns?
+Elon: I think that the most important thing to do is, I mean, it's a long shot and it is not likely to happen but it would be great if it did happen. So I am not doing Mars.<|endoftext|>
